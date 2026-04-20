@@ -63,3 +63,15 @@ Evidence Included
 
 Conclusion
 This portfolio serves as evidence of my academic learning, practical skills, and personal development. It reflects my readiness to transition into a professional working environment within the IT industry.
+
+
+Additional Reflections
+
+Reflection on Markdown (.md)
+Working with Markdown helped me learn how to organise information in a simple and clean way. I now understand how to structure content using headings and links, which made my portfolio easier to read.
+
+Reflection on Mock Interview
+The mock interview helped me become more confident when answering questions. I realised I need to be clearer when explaining my skills, and it showed me where I can improve.
+
+Reflection on GitHub Pages Deployment
+Deploying my portfolio on GitHub Pages showed me how to turn my work into a live website. It helped me understand how projects are shared online and made me more comfortable using GitHub.
