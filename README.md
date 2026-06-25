@@ -52,6 +52,15 @@ Overall, this portfolio demonstrates my growth, learning, and readiness to enter
 ## GitHub Student Account
 https://github.com/Coben220235686
 
+GitHub Profile:
+https://github.com/Coben220235686
+
+Portfolio Repository:
+https://github.com/Coben220235686/Portfolio-POE
+
+Live Portfolio:
+https://coben220235686.github.io/Portfolio-POE/
+
 
 
 Evidence Included
