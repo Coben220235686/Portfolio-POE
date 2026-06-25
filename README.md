@@ -1,17 +1,17 @@
 # GitHub Portfolio of Evidence (POE)
 
- About Me
+ ## About Me
 My name is Coben Maistry (Student Number: 220235686). I am an IT student at the Cape Peninsula University of Technology with a strong interest in software development and technology. I am continuously developing my skills in programming, databases, and problem-solving.
 
 
 
- Education
+ ## Education
 - Diploma in Information and Communication Technology  
 - Cape Peninsula University of Technology (CPUT)
 
 
 
- Technical Skills
+ ## Technical Skills
 - Java Programming  
 - SQL and Databases  
 - GitHub and Version Control  
@@ -26,7 +26,7 @@ You can view my CV below:
 
 
 
-Mock Interview
+## Mock Interview
 You can view my mock interview here:  
 [Watch Mock Interview](https://drive.google.com/file/d/1QsqdxHdW4R2y39LtK-dXgoLtD7_ehU0v/view?usp=drivesdk)
 
@@ -38,7 +38,7 @@ You can view my mock interview here:
 
 
 
-Reflection
+## Reflection
 Through the development of this portfolio, I have gained a better understanding of how to present myself professionally in the IT industry. 
 
 Creating this portfolio allowed me to reflect on my learning journey and recognize the skills I have developed throughout my studies. The mock interview helped me understand the importance of preparation, communication, and confidence when engaging with potential employers.
@@ -70,7 +70,7 @@ Evidence Included
 
 
 
-Conclusion
+## Conclusion
 This portfolio serves as evidence of my academic learning, practical skills, and personal development. It reflects my readiness to transition into a professional working environment within the IT industry.
 
 
