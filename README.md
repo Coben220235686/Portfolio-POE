@@ -49,7 +49,7 @@ Overall, this portfolio demonstrates my growth, learning, and readiness to enter
 
 
 
- GitHub Profile
+## GitHub Student Account
 https://github.com/Coben220235686
 
 
