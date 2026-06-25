@@ -65,17 +65,50 @@ Conclusion
 This portfolio serves as evidence of my academic learning, practical skills, and personal development. It reflects my readiness to transition into a professional working environment within the IT industry.
 
 
-Additional Reflections
+## Additional Reflections
 
+### Reflection on Markdown
 
-Reflection on Markdown:
+**Situation:**
+For this assignment, I had to use Markdown to create my GitHub portfolio.
 
-Working with Markdown helped me learn how to organise information in a simple and clean way. I now understand how to structure content using headings and links, which made my portfolio easier to read.
+**Task:**
+I needed to learn how to format my portfolio so that it was neat, easy to read, and professional.
 
-Reflection on Mock Interview:
+**Action:**
+I spent time learning how to use headings, bullet points and links. As I worked on my portfolio, I kept checking that everything displayed correctly on GitHub.
 
-The mock interview helped me become more confident when answering questions. I realised I need to be clearer when explaining my skills, and it showed me where I can improve.
+**Result:**
+By the end of the project, I was much more comfortable using Markdown. It made me realise how useful it is for creating clear documentation and presenting work professionally.
 
-Reflection on GitHub Pages Deployment:
+---
 
-Deploying my portfolio on GitHub Pages showed me how to turn my work into a live website. It helped me understand how projects are shared online and made me more comfortable using GitHub.
+### Reflection on Mock Interview
+
+**Situation:**
+As part of this portfolio, I completed a mock interview to prepare for future job opportunities.
+
+**Task:**
+My goal was to practise answering interview questions confidently and explain my skills more clearly.
+
+**Action:**
+Before the interview, I reviewed my knowledge and thought about how I would answer common questions. During the interview, I focused on speaking clearly and professionally.
+
+**Result:**
+The interview helped me become more confident and showed me which areas I can still improve. I now feel better prepared for real interviews in the future.
+
+---
+
+### Reflection on GitHub Pages Deployment
+
+**Situation:**
+After completing my portfolio, I needed to publish it using GitHub Pages.
+
+**Task:**
+My aim was to make my portfolio available online so that it could be viewed through a web link.
+
+**Action:**
+I enabled GitHub Pages, published my repository, and tested the website to make sure that my CV, interview link and portfolio content all worked correctly.
+
+**Result:**
+Publishing the website gave me a better understanding of how projects can be shared online. It also gave me confidence in using GitHub beyond just storing code.
